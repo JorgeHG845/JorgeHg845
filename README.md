@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Jorge 👋
 
-<!--
-**JorgeHG845/JorgeHg845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Soy un programador en formación con conocimientos en HTML, CSS, PHP y aprendiendo JavaScript.
 
-Here are some ideas to get you started:
+💻 Estoy construyendo proyectos web simples mientras aprendo buenas prácticas y desarrollo mi lógica de programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologías que manejo:
+- HTML
+- CSS
+- PHP
+- MySQL
+- En proceso: JavaScript
+
+📫 Contacto: jorgegiraldo0845@gmail.com  
+🌐 Portafolio (pronto)
+
+---
+💬 Estoy abierto a colaboraciones o prácticas. ¡Gracias por visitar mi perfil!
